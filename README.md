@@ -2,7 +2,7 @@
                     Ana Sayfa Slider ile Araçların görüntülenmesi
 
  ![Ekran görüntüsü 2024-10-16 145333](https://github.com/user-attachments/assets/f0cf66bd-ae13-41d9-a802-198fb89acca5)
-                  Ana Sayfada yer alan öncelikli araçlar listesi
+                  Ana Sayfada yer alan öncelikli satışta olan araçlar listesi
  
 ![Ekran görüntüsü 2024-10-16 145349](https://github.com/user-attachments/assets/60bd6cbc-1366-40fc-b9b7-c1634cab69c4)
                   Araç Detay Sayfası 
